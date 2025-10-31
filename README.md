@@ -35,6 +35,6 @@ Then, open:
 - http://localhost8080/heroes
 
 ## Next Phases
-- Phase 2: Add rule logic (locked environments, validation)
+- Phase 2: Add CI/CD, rule logic (locked environments, validation)
 - Phase 3: Introduce AI responses ("closest hero" summary)
 - Phase 4+: Integrate Vault + Boundary for secure access
