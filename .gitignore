@@ -1,0 +1,11 @@
+# build output
+*.exe
+*.out
+
+# local data and logs
+artifacts/heroes.json
+artifacts/logs/
+
+# system files
+.DS_Store
+Thumbs.db

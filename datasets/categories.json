@@ -1,0 +1,82 @@
+{
+    "powers": [
+        "fly",
+        "invisible",
+        "read minds",
+        "super strength", 
+        "bend time (slow down, speed up)",
+        "time travel",
+        "combination of machine and human",
+        "can shrink very small",
+        "can become the size of a skyscraper",
+        "can harvest and launch energy",
+        "interplanetary travel",
+        "breathe underwater",
+        "immortality",
+        "speed of light",
+        "bend elements",
+        "teleportation",
+        "telekinesis"
+    ],
+
+    "environments": [
+        "city",
+        "country plains / rural",
+        "mountains",
+        "suburbs",
+        "other planet (locked - need interplanetary travel",
+        "inside cave",
+        "ice",
+        "volano",
+        "on water",
+        "underwater",
+        "in the skies",
+        "desert"
+    ],
+
+    "vices": [
+        "endless money / assets",
+        "endless partners",
+        "endless adult beverages",
+        "endless power",
+        "endless praise (and crave it)"
+    ],
+
+    "stabilizers": [
+        "internal peace (clearheaded, not stressed)",
+        "strong support system",
+        "financially sound",
+        "confident",
+        "strong focus",
+        "strong health",
+        "physically fit",
+        "sense of humor"
+    ],
+
+    "stressors": [
+        "uaware / naive",
+        "chronic explosive anger",
+        "deep depression",
+        "low hygiene",
+        "negative self talk / self-hate",
+        "no support system",
+        "diet needs improvement",
+        "lonely",
+        "dissociation",
+        "financially stressed",
+        "tension with peers",
+        "enjoys partaking in crime",
+        "overthinks / spirals"
+    ],
+
+    "personality": [
+        "heart first (emotions)",
+        "head first (logic)",
+        "blend of head + heart",
+        "wind-blown (no opinion and bandwagons on any trend",
+        "self-first",
+        "collective-first",
+        "duty-first",
+        "vision-first"
+    ]
+}
