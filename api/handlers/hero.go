@@ -12,7 +12,7 @@ import (
 
 func CreateHero(w http.ResponseWriter, r *http.Request) {
 	if r.Method == http.MethodGet {
-		w.Header().Set("Content=Type", "text/plain")
+		w.Header().Set("Content-Type", "text/plain")
 		w.Write([]byte("POST JSON here to create a hero."))
 		return
 	}
