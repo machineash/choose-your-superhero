@@ -9,7 +9,7 @@ Phase 1 covers core endpoints and file-based storage.
 ---
 
 ## Current Endpoints
-| Method | Path | Description }
+| Method | Path | Description |
 |---------|-------|--------------|
 | GET | `/options` | Returns all selectable traits |
 | POST | `/create-hero` | Creates and saves a hero profile |
