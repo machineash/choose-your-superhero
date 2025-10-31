@@ -1,6 +1,6 @@
 # Choose Your Superhero (Phase 1)
 
-You are the superhero - customize it to your liking.
+Choose what kind of superhero you'd like to see - customize it to your liking.
 
 This Go API lets users pick traits (powers, vices, stressors, personalities, and more) and stores each "hero profile" with persistent memory.
 
