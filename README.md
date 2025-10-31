@@ -26,7 +26,7 @@ Phase 1 covers core endpoints and file-based storage.
 ## Run Locally
 ``` bash
 git clone https://github.com/machineash/choose-your-superhero.git
-cd superhero-api
+cd choose-your-superhero
 go run main.go
 ```
 
