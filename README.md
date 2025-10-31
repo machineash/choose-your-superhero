@@ -1,4 +1,40 @@
-Phase 1 - Core API working
-- /options returns categories
-- /create-hero saves a hero
-- /heroes lists saved heroes (persistent)
+# Choose Your Superhero (Phase 1)
+
+You are the superhero - customize it to your liking.
+
+This Go API lets users pick traits (powers, vices, stressors, personalities, and more) and stores each "hero profile" with persistent memory.
+
+Phase 1 covers core endpoints and file-based storage.
+
+---
+
+## Current Endpoints
+| Method | Path | Description }
+|---------|-------|--------------|
+| GET | `/options` | Returns all selectable traits |
+| POST | `/create-hero` | Creates and saves a hero profile |
+| GET | `/heroes` | Lists all saved heroes |
+
+---
+
+## Stack
+- **Go** (net/http)
+- **JSON storage** (saved in `artifacts/heroes.json`)
+
+---
+
+## Run Locally
+``` bash
+git clone https://github.com/machineash/choose-your-superhero.git
+cd superhero-api
+go run main.go
+```
+
+Then, open:
+- http://localhost:8080/options
+- http://localhost8080/heroes
+
+## Next Phases
+- Phase 2: Add rule logic (locked environments, validation)
+- Phase 3: Introduce AI responses ("closest hero" summary)
+- Phase 4+: Integrate Vault + Boundary for secure access
