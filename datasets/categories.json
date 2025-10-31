@@ -16,7 +16,9 @@
         "speed of light",
         "bend elements",
         "teleportation",
-        "telekinesis"
+        "telekinesis",
+        "control people's thoughts and memories",
+        "transformer"
     ],
 
     "environments": [
@@ -32,6 +34,9 @@
         "underwater",
         "in the skies",
         "desert"
+        "woods",
+        "forest",
+        "jungle"
     ],
 
     "vices": [
@@ -39,7 +44,8 @@
         "endless partners",
         "endless adult beverages",
         "endless power",
-        "endless praise (and crave it)"
+        "endless praise (craves it)"
+        "obsession with vanity"
     ],
 
     "stabilizers": [
@@ -70,10 +76,10 @@
     ],
 
     "personality": [
-        "heart first (emotions)",
-        "head first (logic)",
-        "blend of head + heart",
-        "wind-blown (no opinion and bandwagons on any trend",
+        "heart first (emotional)",
+        "head first (logical)",
+        "blend of head + heart (balanced - doesn't feel either extremes)",
+        "wind-blown (no opinion and bandwagons on any trend)",
         "self-first",
         "collective-first",
         "duty-first",
