@@ -32,7 +32,7 @@ go run main.go
 
 Then, open:
 - http://localhost:8080/options
-- http://localhost8080/heroes
+- http://localhost:8080/heroes
 
 ## Next Phases
 - Phase 2: Add CI/CD, rule logic (locked environments, validation)
